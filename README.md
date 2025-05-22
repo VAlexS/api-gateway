@@ -44,7 +44,7 @@ Once you finish the assignment, submit a URL link to your repository or your pul
 
 **Note**: In this lab, we will use the code created in the previous lab. If you have not been able to complete it, you may ask your teacher for the solution of the previous lab so you can work with this one.
 
-Estos links son los repositorios al resto de Apis:
+Estos links son los repositorios al resto de APIs:
 
 * Discovery-server -> https://github.com/VAlexS/lab-java-intro-to-microservices.git
 
