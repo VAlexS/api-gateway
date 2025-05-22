@@ -50,4 +50,4 @@ Estos links son los repositorios al resto de APIs:
 
 * Grades-data-service -> https://github.com/VAlexS/grades-data-service.git
 
-* Student-catalog-service -> https://github.com/VAlexS/student-info-service.git
+* Student-info-service -> https://github.com/VAlexS/student-info-service.git
