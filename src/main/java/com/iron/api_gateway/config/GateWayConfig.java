@@ -14,7 +14,9 @@ public class GateWayConfig {
                 .route("grades", r -> r.path("/api/grades")
                         .uri("lb://grades-data-service"))
                 .route("student", r -> r.path("/api/student/**")
-                        .uri("lb://student-info-service")
+                        .uri("lb://student-info-service"))
+                .route("courses", r -> r.path("/api/course/**")
+                        .uri("lb://grades-data-service")
                 ).build();
     }
 }
